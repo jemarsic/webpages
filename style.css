@@ -1,19 +1,21 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Jordan Marsicano
+ *UnityID: jemarsic
+ *Date: 9/29/19
+ *Assignment: E115 Webpages IA
+ *Description: Independant Assignment for E115 Webpages Unit
  */
  
-p {
-    property: value;
+backround-color {
+    color:#888888;
 }
 
-.class {
-    property: value;
+#photo-resize {
+    width: 200px;
+	hidth:250px;
+	border:2px: color:#gggggg;
 }
 
-#id {
-    property:value;
+.table-border {
+   border:2px solid #FFFFFF;
 }
